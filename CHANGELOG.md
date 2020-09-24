@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/itsmeganesh-cse-iiit/react-auto-versioning/compare/v0.0.2...v0.0.3) (2020-09-24)
+
+
+### Features
+
+* test feat commit ([b118897](https://github.com/itsmeganesh-cse-iiit/react-auto-versioning/commit/b118897356e3103bf55390546ed2b51608847318))
+
+
+### Bug Fixes
+
+* test fix commit ([0996734](https://github.com/itsmeganesh-cse-iiit/react-auto-versioning/commit/09967349a5779c73638516f82eeb2b9ef0880cbf))
+
 ### [0.0.2](https://github.com/itsmeganesh-cse-iiit/react-auto-versioning/compare/v0.0.1...v0.0.2) (2020-09-24)
 
 
