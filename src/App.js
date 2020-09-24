@@ -6,8 +6,6 @@ function App() {
   return (
     <div className="App">
       Test two commite3w
-
-      ss
     </div>
   );
 }
